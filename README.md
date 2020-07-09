@@ -1,4 +1,4 @@
-# Hi, my name is Ondřej
+# Hi, my name is Ondřej 👋
 
 > __[Are you interested in who I am?](https://ondrej.chrastina.tech)__
 
