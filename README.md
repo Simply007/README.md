@@ -2,6 +2,6 @@
 
 > __[Are you interested in who am I?](https://ondrej.chrastina.tech)__
 
-[![Cover photo](1500x500.jpg "Death Valley")](https://ondrej.chrastina.tech)
+[![Cover photo](https://raw.githubusercontent.com/Simply007/Simply007/master/1500x500.jpg "Death Valley")](https://ondrej.chrastina.tech)
 
 TRAVELER, TECH ENTHUSIASTIC, OPEN-SOURCE LOVER, AND DEVELOPER ADVOCATE BY POSITION.
