@@ -5,3 +5,5 @@
 [![Cover photo](https://raw.githubusercontent.com/Simply007/Simply007/master/1500x500.jpg "Death Valley")](https://ondrej.chrastina.tech)
 
 :bulb: TRAVELER, TECH ENTHUSIASTIC, OPEN-SOURCE LOVER, AND DEVELOPER ADVOCATE BY POSITION.
+
+__[https://ondrej.chrastina.tech](https://ondrej.chrastina.tech)__
