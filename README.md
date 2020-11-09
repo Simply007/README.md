@@ -6,4 +6,4 @@
 
 :bulb: TRAVELER, TECH ENTHUSIASTIC, OPEN-SOURCE LOVER, AND DEVELOPER ADVOCATE BY POSITION.
 
-__[https://ondrej.chrastina.tech](https://ondrej.chrastina.tech)__
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Simply007&show_icons=true)
